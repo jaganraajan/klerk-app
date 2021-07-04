@@ -9,9 +9,9 @@ export default function StartScreen({ navigation }) {
   return (
     <Background>
       <Logo />
-      <Header>Login Template</Header>
+      {/* <Header>Say Goodbye to Paper Receipts</Header> */}
       <Paragraph>
-        The easiest way to start with your amazing application.
+      Say Goodbye to Paper Receipts.
       </Paragraph>
       <Button
         mode="contained"
